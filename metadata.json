@@ -1,0 +1,6 @@
+{
+  "name": "Şehir Kaşifi",
+  "description": "Dünya şehirlerini keşfedin: yerel lezzetler, tarihi mekanlar ve eşsiz manzaralar AI ile parmaklarınızın ucunda.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
